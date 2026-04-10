@@ -1,0 +1,212 @@
+{
+  "personal": {
+    "name": "Mohamed Yasser",
+    "title": "Agricultural Scientist & Soil Specialist",
+    "location": "El Beheira, Egypt",
+    "phone": "01213372511",
+    "email": "mohmamedalsmmak1@gmail.com",
+    "photo": "./data/me.png",
+    "objective": "Fresh graduate in Soil & Land Science from Damanhour University, equipped with specialized knowledge in soil management, pesticide safety, and sustainable agriculture. Certified by FAO across 15 programs covering trade policy, water stress, nutrition-sensitive systems, and hazardous pesticide protocols. Seeking an entry-level role in agriculture where I can bridge scientific knowledge with operational impact."
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Agriculture",
+      "institution": "Damanhour University",
+      "year": "2024",
+      "specialization": "Soil and Land Department",
+      "grade": null
+    }
+  ],
+  "graduationProject": {
+    "title": "Compost Production Using Shrimp Shell Waste",
+    "description": "Investigated the viability of shrimp shell waste as a raw material for compost production, focusing on soil amendment benefits and sustainable waste utilization in agricultural contexts."
+  },
+  "training": [
+    {
+      "company": "El-Maghraby Company",
+      "type": "Practical Field Training",
+      "description": "Hands-on agricultural operations and field management practices."
+    },
+    {
+      "company": "Delta Group Company",
+      "type": "Practical Field Training",
+      "description": "Applied training in agricultural production and operations."
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Monitoring and Evaluation of Child Labour in Agriculture",
+      "issuer": "FAO",
+      "image": "./data/certs/Monitoring_and_Evaluation_of_Child_Labour_in_Agriculture.png"
+    },
+    {
+      "title": "Creating an Enabling Environment for Responsible Investment in Agriculture and Food Systems – Fundamentals",
+      "issuer": "FAO",
+      "image": "./data/certs/Creating_an_Enabling_Environment_for_Responsible_Investment_in_Agriculture_and_Food_Systems_Fundamentals.png"
+    },
+    {
+      "title": "Agripreneurship 101",
+      "issuer": "FAO",
+      "image": "./data/certs/Agripreneurship_101.png"
+    },
+    {
+      "title": "SDG Indicators 2.3.1 & 2.3.2 – Labour Productivity and Income of Small-scale Food Producers",
+      "issuer": "FAO",
+      "image": "./data/certs/SDG_Indicators_2.3.1_and_2.3.2_Labour_Productivity_and_Income_of_Small_Scale_Food_Producers.png"
+    },
+    {
+      "title": "Highly Hazardous Pesticides",
+      "issuer": "FAO",
+      "image": "./data/certs/Highly_Hazardous_Pesticides.png"
+    },
+    {
+      "title": "Using the Pesticide Registration Toolkit",
+      "issuer": "FAO",
+      "image": "./data/certs/Using_the_Pesticide_Registration_Toolkit.png"
+    },
+    {
+      "title": "Pesticide Registration Toolkit",
+      "issuer": "FAO",
+      "image": "./data/certs/Pesticide_Registration_Toolkit.png"
+    },
+    {
+      "title": "Communication Skills",
+      "issuer": "It Sharks",
+      "image": "./data/certs/Communication_Skills.png"
+    },
+    {
+      "title": "Leadership Skills",
+      "issuer": "It Sharks",
+      "image": "./data/certs/Leadership_Skills.png"
+    },
+    {
+      "title": "Microsoft Excel",
+      "issuer": "It Sharks",
+      "image": "./data/certs/Microsoft_Excel.png"
+    }
+  ],
+  "badges": [
+    {
+      "title": "Agripreneurship 101",
+      "issuer": "FAO",
+      "image": "./data/badges/Agripreneurship_101.png"
+    },
+    {
+      "title": "Highly Hazardous Pesticides",
+      "issuer": "FAO",
+      "image": "./data/badges/Highly_Hazardous_Pesticides.png"
+    },
+    {
+      "title": "Pesticide Registration Toolkit",
+      "issuer": "FAO",
+      "image": "./data/badges/Pesticide_Registration_Toolkit.png"
+    },
+    {
+      "title": "Using the Pesticide Registration Toolkit",
+      "issuer": "FAO",
+      "image": "./data/badges/Using_the_Pesticide_Registration_Toolkit.png"
+    },
+    {
+      "title": "Monitoring and Evaluation of Child Labour in Agriculture",
+      "issuer": "FAO",
+      "image": "./data/badges/Monitoring_and_evaluation_of_child_labour_in_agriculture.png"
+    },
+    {
+      "title": "Creating an Enabling Environment for Responsible Investment in Agriculture",
+      "issuer": "FAO",
+      "image": "./data/badges/Creating_an_enabling_environment_for_responsible_investment_in_agriculture_and_food_systems_fundamentals.png"
+    },
+    {
+      "title": "SDG Indicators 2.3.1 & 2.3.2",
+      "issuer": "FAO",
+      "image": "./data/badges/SDG_Indicators_2.3.1_and_2.3.2_Labour_productivity_and_income_of_small_scale_food_producers.png"
+    },
+    {
+      "title": "SDG Indicator 6.4.2 – Level of Water Stress",
+      "issuer": "FAO",
+      "image": "./data/badges/SDG_Indicator_6.4.2_Level_of_Water_Stress.png"
+    },
+    {
+      "title": "Trade Governance for Food Security and Nutrition",
+      "issuer": "FAO",
+      "image": "./data/badges/Governance_of_Trade_Food_Security_and_Nutrition.png"
+    },
+    {
+      "title": "Trade Policy Supporting Food Security and Nutrition",
+      "issuer": "FAO",
+      "image": "./data/badges/Trade_Policy_Supporting_Food_Security_and_Nutrition.png"
+    },
+    {
+      "title": "Introduction to Trade, Food Security and Nutrition",
+      "issuer": "FAO",
+      "image": "./data/badges/Introduction_to_Trade_Food_Security_and_Nutrition.png"
+    },
+    {
+      "title": "Design and Monitoring of Nutrition-Sensitive Agriculture and Food Systems Programs",
+      "issuer": "FAO",
+      "image": "./data/badges/Design_and_Monitoring_of_Nutrition_Sensitive_Agriculture_and_Food_Systems_Programs.png"
+    },
+    {
+      "title": "Agriculture in International Trade Agreements",
+      "issuer": "FAO",
+      "image": "./data/badges/Agriculture_in_International_Trade_Agreements.png"
+    },
+    {
+      "title": "Agriculture in Regional Trade Agreements",
+      "issuer": "FAO",
+      "image": "./data/badges/Agriculture_in_Regional_Trade_Agreements.png"
+    },
+    {
+      "title": "Non-Tariff Agricultural Measures and Relevant WTO Agreements",
+      "issuer": "FAO",
+      "image": "./data/badges/Non_Tariff_Agricultural_Measures_and_Relevant_WTO_Agreements.png"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Technical",
+      "items": [
+        "Soil & Land Management",
+        "Pesticide Registration & Safety",
+        "Compost & Organic Waste Processing",
+        "SDG Agricultural Indicators",
+        "Field Operations Management"
+      ]
+    },
+    {
+      "category": "Software & Tools",
+      "items": [
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Adobe Photoshop",
+        "Laser Machine Operation",
+        "3D Printing"
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        "Communication",
+        "Leadership",
+        "Teamwork",
+        "Agricultural Report Writing"
+      ]
+    }
+  ],
+  "languages": [
+    { "language": "Arabic", "level": "Native" },
+    { "language": "English", "level": "Professional Working Proficiency" }
+  ],
+  "military": "Completed",
+  "links": [
+    { "label": "Personal Website", "url": "https://mohamed.alsmmak.site", "icon": "website" },
+    { "label": "Instagram", "url": "https://www.instagram.com/mohammedelsmmak/", "icon": "instagram" },
+    { "label": "Facebook", "url": "https://www.facebook.com/01063m", "icon": "facebook" },
+    { "label": "LinkedIn", "url": "", "icon": "linkedin" },
+    { "label": "Twitter / X", "url": "", "icon": "twitter" },
+    { "label": "GitHub", "url": "", "icon": "github" },
+    { "label": "YouTube", "url": "", "icon": "youtube" },
+    { "label": "WhatsApp", "url": "", "icon": "whatsapp" },
+    { "label": "Telegram", "url": "", "icon": "telegram" },
+    { "label": "ResearchGate", "url": "", "icon": "researchgate" }
+  ]
+}
