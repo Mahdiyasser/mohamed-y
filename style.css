@@ -898,6 +898,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   font-size: .92rem;
   font-weight: 700;
   color: var(--ink);
+  word-break: break-all;
+  overflow-wrap: anywhere;
 }
 .contact-item a:hover { color: var(--accent); }
 
@@ -1075,6 +1077,10 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 
   .badges-grid { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); }
   .cert-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+
+  .contact-layout { gap: 2rem; }
+  .contact-item { min-width: 0; }
+  .contact-links { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); }
 }
 
 @media (max-width: 480px) {
